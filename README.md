@@ -6,3 +6,4 @@ Controlled experiments and data analytics became a major driving force behind da
 
 In this experiment I want to explore how Bayesian inference statistics can help making data-driven business decisions and where and why this approach has its short-comings.
 
+This document can be found here on my <a href="https://github.com/MaxWhyte/BA_Thesis_Statistics" target="_blank">GitHub</a>.
