@@ -1,4 +1,5 @@
 # BA_Thesis_Statistics
+Update: I got a 1.6 on this! YAY!
 
 Bayesian Inference Statistics in A/B Testing
 
